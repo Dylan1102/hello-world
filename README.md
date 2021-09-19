@@ -1,4 +1,2 @@
 # hello-world
-
-Hello
-Pay for your pizza
+Respect the duck gang
